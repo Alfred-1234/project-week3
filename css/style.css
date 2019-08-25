@@ -31,3 +31,46 @@ body{
     padding: 30px;
     margin-top: 30px;
     margin-bottom: 5px;
+  }
+
+  .About{
+    text-align: center;
+    height: 300px;
+    padding: 30px;
+    line-height: 200%;
+}
+.s_image{
+    background-image: url("../images/assets/backgrounds/s_image.jpg");
+    height: 350px;
+    padding-top: 100px;
+    line-height: 200%;
+}
+.banner2-1,.banner2-2 {
+    text-align: center;
+    color: white;
+
+}
+.row{
+    text-align: center;
+}
+.What-we-do{
+    display: inline;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 150px;
+}
+.we-do{
+    text-align: center;
+    padding-top: 40px;
+    /* padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px; */
+}
+.PortF1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
