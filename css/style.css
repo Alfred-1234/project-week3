@@ -1,0 +1,33 @@
+body{
+    margin: auto;
+    box-sizing: border-box;
+}
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+.h_image{
+    background-image: url("../images/assets/backgrounds/h_img.jpg");
+    height:700px;
+
+}
+#logo{
+    text-align-last: center;
+    padding-top: 200px;
+    padding-bottom: 30px;
+
+}
+.banner1,.banner2 {
+    text-align: center;
+    color: white;
+}
+.banner2 {
+    padding-bottom: 120px;
+}
+
+#mouse_click{
+    text-align: center;
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 5px;
